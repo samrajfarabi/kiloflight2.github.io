@@ -1,0 +1,29 @@
+.img-responsive{
+  height: 190px;
+    width: 240px;
+    border-radius: 0%;
+    
+}
+.headimg{
+    width:100%;
+    height:300px;
+    }
+.nmfnt{
+    font-family: Bookman Old Style;
+    font-size: 40;
+    }
+.abt{
+    font-family:Bahnschrift SemiBold;
+    font-size: 30;
+    color:aliceblue;
+}
+.det{
+    font-size:16;
+}
+
+.sklhd{
+    
+    font-family: arial black;
+    font-size: 18;
+    text-align: center;
+}

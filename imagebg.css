@@ -1,0 +1,19 @@
+ .imagebg{
+     background: rgba(0,0,0,0.5);
+     position: absolute;
+     padding:10px; 
+    
+    
+
+}
+
+ .cvimg{
+     background: rgba(0,0,0,0.10);
+    
+    
+    padding:20px; 
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}

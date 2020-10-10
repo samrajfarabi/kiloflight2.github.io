@@ -1,0 +1,133 @@
+.text123{
+    font-size: 100px;
+    color:#959595 ;
+    font:Bernard MT Condensed ;
+    text-shadow: 3px 3px #838383;
+    padding-left:440px;
+    }
+.facebook{
+    padding-left:100px;
+    padding-bottom:60px;
+}
+.linkedin{
+    padding-left:70px;
+    padding-bottom:60px;
+}
+.mapp{
+    padding-bottom:60px;
+}
+
+
+
+
+@media only screen and (min-width:320px){
+    
+    .text123{
+    font-size: 40px;
+    color:#959595 ;
+    font:Bernard MT Condensed ;
+    text-shadow: 3px 3px #838383;
+    padding-left:15%;
+    }
+    iframe{
+        max-width:315px;
+    }
+    .facebook{
+        padding-left:10%;
+    }
+    .linkedin{
+        padding-left:10%;
+    }
+    .mapp{
+        padding-left:10%
+    }
+    
+}
+
+
+@media only screen and (min-width:480px){
+    .text123{
+    font-size: 50px;
+    color:#959595 ;
+    font:Bernard MT Condensed ;
+    text-shadow: 3px 3px #838383;
+    padding-left:28%
+    }
+    .facebook{
+        padding-left:27%;
+    }
+    .mapp{
+        padding-left:18%;
+    }
+    .linkedin{
+        padding-left:27%;
+    }
+    iframe{
+        max-width:500px;
+    }
+}
+
+
+@media only screen and (min-width:768px){
+    .text123{
+    font-size: 70px;
+    color:#959595 ;
+    font:Bernard MT Condensed ;
+    text-shadow: 3px 3px #838383;
+    padding-left:25%
+    }
+    .facebook{
+        padding-left:6%;
+    }
+    .mapp{
+        padding-left:20%;
+    }
+    .linkedin{
+        padding-left:3%;
+    }
+   
+    
+}
+
+
+@media only screen and (min-width:992px){
+     .text123{
+    font-size: 70px;
+    color:#959595 ;
+    font:Bernard MT Condensed ;
+    text-shadow: 3px 3px #838383;
+    padding-left:30%
+    }
+    .facebook{
+        padding-left:3%;
+    }
+    .mapp{
+        padding-left:1%;
+    }
+    .linkedin{
+        padding-left:7%;
+    }
+    
+}
+
+@media only screen and (min-width:1200px){
+     .text123{
+    font-size: 100px;
+    color:#959595 ;
+    font:Bernard MT Condensed ;
+    text-shadow: 3px 3px #838383;
+    padding-left:30%
+    }
+    .facebook{
+        padding-left:3%;
+    }
+    .mapp{
+        padding-left:1%;
+    }
+    .linkedin{
+        padding-left:7%;
+    }
+    
+}
+
+

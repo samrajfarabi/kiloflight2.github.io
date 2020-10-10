@@ -1,0 +1,181 @@
+.btn-donate
+{
+    border-radius: 20px;
+    display:block;
+    height: 40px;
+    text-align: center;
+    width: 150px;
+    padding:9px;
+    color: #fff;
+    margin-bottom:35px;
+}
+.btn-bk
+{
+    background-color: #D81673;
+}
+.btn-bk:hover
+{
+    background-color: #EF358E;
+}
+
+.btn-rk
+{
+    background-color: #8c3494;
+}
+.btn-rk:hover
+{
+    background-color: #a743b5;
+}
+
+.btn-ng
+{
+    background-color: #ea1c25;
+}
+.btn-ng:hover
+{
+    background-color: #f4515e;
+}
+
+.btn-bt
+{
+    background-color: #2b7b8e;
+}
+.btn-bt:hover
+{
+    background-color: #3490a5;
+}
+.btn-pp
+{
+    background-color: #294baa;
+}
+.btn-pp:hover
+{
+    background-color: #3359c4;
+}
+
+.dheading{
+    font-size: 29px;
+    margin-bottom: 50px;
+    margin-top:100px;
+}
+
+.video{
+    position:relative;
+    left:10px;
+    margin-bottom:40px;
+    margin-top: 10px;
+}
+.into{
+    text-align:center;
+    position:relative;
+    padding-left:50px;
+    padding-right:50px;
+}
+.lab{
+    position:relative;
+    padding-left:400px;
+    display:inline-block;
+    padding-bottom:40px;
+}
+.capt{
+    font-family:"Montserrat",sans-serif;
+    position:relative;
+    }
+.pos1{
+    padding-left:10%;
+}
+
+*{margin:0;padding:0;}
+@media only screen and (min-width:320px){
+    .carousel-caption p{
+        width:100%;
+    }
+    .pos1{
+          padding-left:30%;  
+        }
+    .lab{
+        padding-left:0%;
+    } 
+    video{
+        width:100%;
+    }
+}
+
+@media only screen and (min-width:480px){
+    .carousel-caption{
+        bottom:70px;
+    }
+    .pos{
+        padding-left:0%;
+    }
+    .pos1{
+        padding-left:36%;
+    }
+    .lab{
+        padding-left:8%;
+    }
+    video{
+        width:100%;
+    }
+}
+@media only screen and (min-width:768px){
+    .carousel-caption{
+        bottom:400px;
+    }
+    .pos{
+        position:relative;
+        left:-20%
+    }
+    .pos1{
+        padding-left:20%;
+    }
+    .lab{
+        padding-left:10%;
+        width:60%;
+    }
+    video{
+        width:150%;
+    }
+}
+@media only screen and (min-width:992px){
+    .carousel-caption{
+        bottom:240px;
+    }
+    .pos{
+        left:%;
+    }
+    .pos1{
+        padding-left:30%;
+        padding-top:0%;
+    }
+    .dheading{
+        text-align:center;
+    }
+    .lab{
+        padding-left:9%;
+    }
+   
+}
+@media only screen and (min-width:1200px){
+    .pos{
+        left:5%;
+    }
+    .pos1{
+        padding-left:20%;
+    }
+    .lab{
+        padding-left:26%;
+    }
+    .pos2{
+        padding-left:20%;
+    }
+    .carousel-caption{
+        bottom:300px;
+    }
+    video{
+        width:700px;
+    }
+    .dheading{
+        padding-right:30%;
+    }
+}

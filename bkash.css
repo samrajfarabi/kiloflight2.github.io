@@ -1,0 +1,137 @@
+.box{
+    border: 2px solid #E3106E;
+    border-radius:5px;
+    height:300px;
+    width:300px;
+}   
+.nmbr{
+    font-size:40px;
+    text-align:center;
+    padding-top:40%;
+}
+h2{
+    text-align:center;
+}
+.menu{
+    padding-top:20%;
+    padding-left:28%;
+    font-size:18px;
+}
+.box2{
+    height:35px;
+    width:250px;
+    border:1px solid black;
+    border-radius:25px;
+    position:relative;
+    left:11%;
+    top:60%;
+    text-align:center;
+    font-size:25px;
+    padding-top:5px;
+    position:absolute;
+}
+.head{
+    position:relative;
+    padding-top:30%;
+    text-align:center;
+}
+.det{
+    font-size:40px;
+    color:#E3106E;
+    text-align:center;
+}
+.det2{
+    font-size:24px; 
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:360px;
+    line-height:1.9;
+}
+
+
+
+@media only screen and (min-width:320px){
+    .h{
+        font-size:40px;
+        padding-left:50%;
+        padding-top:5%;
+        color: #fff;
+    }
+    .pos{
+        left:10%;
+    }
+    .det2{
+        padding-left:0%;
+    }
+}
+
+@media only screen and (min-width:480px){
+    .h{
+        font-size:60px;
+        padding-left:20%;
+        padding-top:5%;
+        color: #fff;
+    }
+    .pos{
+        left:0%;
+    }
+    .det2{
+        padding-left:0%;
+    }
+    .menu{
+        padding-left:20%;
+        padding-top:14%;
+    }
+    .box2{
+        left:8%;
+    }
+}
+@media only screen and (min-width:768px){
+    .h{
+        font-size:60px;
+        padding-left:20%;
+        padding-top:2%;
+        color: #fff;
+    }
+    .pos{
+        left:0%;
+    }
+    .det2{
+        padding-left:0%;
+    }
+     .menu{
+        padding-left:30%;
+        padding-top:19%;
+    }
+    .box2{
+        left:12%;
+    }
+}
+@media only screen and (min-width:992px){
+    .h{
+        font-size:60px;
+        padding-left:10%;
+        padding-top:2%;
+    }
+    .pos{
+        left:0%;
+    }
+    .det2{
+        padding-left:34%;
+    }
+}
+@media only screen and (min-width:1200px){
+    .h{   
+      position: absolute;
+      text-align:center;
+      font-size:90px ;
+      color: #fff;
+      z-index: 2;
+      line-height: 50px;
+      top:60px;
+      left:27%;
+      }
+     .pos{
+     left:2%;
+}
+}
