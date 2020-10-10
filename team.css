@@ -1,0 +1,183 @@
+.img-responsive{
+  height: 190px;
+    width: 240px;
+    border-radius: 0%;
+    
+}
+
+.imagebg{
+     background: rgba(0,0,0,0.5);
+     position: absolute;
+     padding:10px; 
+}
+
+.memberbg{
+    background-color:;
+    padding: 10px;
+}
+
+.pos{
+    padding-left:40px;
+}
+.btni{
+   border-radius: 20px;
+    display:block;
+    height: 40px;
+    text-align: center;
+    width: 150px;
+    padding:9px;
+    color: #fff;
+    margin-bottom:35px;
+    position:relative;
+    left:37px;
+    cursor:pointer;
+    box-shadow: 0 0 10px rgba(0 ,0 , 0, 0.1 );
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+    
+}
+
+.btn-p
+{
+    background-color: #3f4ebc;
+}
+.btn-p:hover
+{
+    background-color: #6179f2;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    color:white;
+    
+}
+.menu{
+    text-align:center;
+    font-family:"Montserrat",sans-serif;
+    padding-bottom:40px;
+    padding-top:50px;
+}
+.submenu{
+    padding-top:50px;
+}
+h2{
+    font-weight:400;
+}
+.nme{
+    color:black;
+    font-family:"Montserrat",sans-serif;
+}
+
+
+
+
+
+
+.tree{
+    height: 100vh;
+    min-height:300 px;
+    background:no-repeat center center scroll;
+    -webkit-background-size:cover;
+    background-image: url(kf%20pics/meetb.jpg);
+    
+}
+
+
+
+
+.timg{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    border: 10px solid #bad7ff;
+    border-radius: 50%;
+   
+    
+}
+.timg::before {
+  content: "";
+  position: absolute;
+  border: 6px solid #5097fa;
+  top: -15px;
+  left: -15px;
+  right: -15px;
+  bottom: -15px;
+  border-radius: 50%;
+
+}
+.round{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    position: relative;
+    right:5px;
+    bottom:5px;
+}
+ 
+
+.timg2{
+    height: 95px;
+    width: 95px;
+    background-color: white;
+    position: relative;
+    border: 10px solid #bad7ff;
+    border-radius: 50%;
+   
+    
+}
+.timg2::before {
+  content: "";
+  position: absolute;
+  border: 6px solid #5097fa;
+  top: -15px;
+  left: -15px;
+  right: -15px;
+  bottom: -15px;
+  border-radius: 50%;
+
+}
+.round2{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    position: relative;
+    right:3;
+    bottom:3px;
+    
+}
+.timg3{
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    position: relative;
+    border: 10px solid #bad7ff;
+    border-radius: 50%;
+   
+    
+}
+.timg3::before {
+  content: "";
+  position: absolute;
+  border: 6px solid #5097fa;
+  top: -15px;
+  left: -15px;
+  right: -15px;
+  bottom: -15px;
+  border-radius: 50%;
+
+}
+.round3{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    position: relative;
+    right:5px;
+    bottom:5px;
+    
+}   
+
+.txt{
+    color:white;
+}
+   

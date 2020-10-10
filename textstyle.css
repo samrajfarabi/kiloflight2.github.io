@@ -1,0 +1,16 @@
+.k {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  position: relative; 
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 2px;
+}
+.center {
+  text-align: center;
+}
+
+.contact{
+    color:deepskyblue;
+    font-weight:500;
+}
