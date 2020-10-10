@@ -1,0 +1,57 @@
+.trns{
+    transition: background-color .7s;
+    transition-timing-function:linear;
+}
+
+
+}
+.card-body{
+    transition: background-color .7s;
+    transition-timing-function:linear;
+}
+.card-header{
+    transition: background-color .7s;
+    transition-timing-function:linear;
+}
+
+
+
+.card-body:hover{
+    background-color:#e8e8e8;
+}
+.card-header:hover{
+    background-color:#e8e8e8;
+}
+
+.animate__animated.animate__bounceInRight {
+  --animate-duration: 2s;
+}
+
+.animate__animated.animate__bounceInLeft {
+  --animate-duration: 2s;
+}
+
+.animate__animated.animate__fadeInRight {
+  --animate-duration: 2s;
+}
+.animate__animated.animate__fadeInLeft {
+  --animate-duration: 2s;
+}
+.animate__animated.animate__fadeInLeft {
+  --animate-duration: 2s;
+}
+
+.animate__animated.animate__fadeInBottomLeft {
+  --animate-duration: 2s;
+}
+.animate__animated.animate__fadeInBottomRight {
+  --animate-duration: 2s;
+}
+.animate__animated.animate__fadeIn {
+  --animate-duration: 2.5s;
+  --animate-delay:3s;
+    
+}
+
+
+
