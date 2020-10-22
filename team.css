@@ -180,6 +180,7 @@ h2{
 .txt{
     color:white;
 }
+*{margin:0;padding:0;}
 @media only screen and (max-width:320px){
     .pos{
         padding-left:6%;
@@ -206,7 +207,7 @@ h2{
         font-size:200%;
     }
     .btni{
-        left:23%;
+        left:22%;
     }
     .nam{
         padding-left:13%;
@@ -257,7 +258,7 @@ h2{
         padding-left:0%
     }
     .btni{
-        left:16%;
+        left:17%;
     }
     .menu{
         font-size:400%;
